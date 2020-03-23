@@ -5,4 +5,6 @@ for (let i = 7; i <= a; i--) {
   console.log(b)
 }
 //this will return infinite 7 digit  numbers(starting from 6) 
-and so on
+for example: => 440901,440902,........,4417883 and so on
+and so on 
+and when we do ctrl+c, then it will stops proceding 
